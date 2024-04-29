@@ -57,11 +57,11 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  color: yellow;
+  color: rgb(173, 206, 120);
 }
 
 .active {
-  color: yellow;
+  color: rgb(173, 206, 120);
 }
 
 /* 首頁格式 左右分層 */
